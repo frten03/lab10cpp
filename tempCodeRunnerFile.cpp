@@ -1,0 +1,1 @@
+havetext = getline(source,textline) ;
